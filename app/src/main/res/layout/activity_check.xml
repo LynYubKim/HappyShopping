@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mnb.happyshopping.CheckActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="Choose a way you want"
+        android:textSize="30dp"
+        android:textColor="#0000FF"
+        />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp">
+
+        <RadioButton
+            android:id="@+id/CA_RadioButton1"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="30dp"
+            android:text="Path with merchandise"
+            android:textSize="30dp"
+            />
+
+        <RadioButton
+            android:id="@+id/CA_RadioButton2"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:text="Path without merchandise"
+            android:textSize="30dp"
+            />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/CA_Button1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="370dp"
+        android:gravity="center"
+        android:text="Route Guide"
+        android:textSize="40dp"
+        />
+
+</RelativeLayout>

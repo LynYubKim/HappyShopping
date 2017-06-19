@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mnb.happyshopping.MapActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="Route"
+        android:textSize="40dp"
+        android:textColor="#000000"
+        />
+
+
+
+    <TextView
+        android:id="@+id/MA_TextView1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="30dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="110dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView3"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="190dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView4"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="270dp"
+        android:background="#FFFFFF00"
+        />
+
+
+
+    <TextView
+        android:id="@+id/MA_TextView5"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="30dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView6"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="110dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView7"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="190dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView8"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="270dp"
+        android:background="#FFFFFF00"
+        />
+
+
+
+    <TextView
+        android:id="@+id/MA_TextView9"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="30dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView10"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="110dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView11"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="190dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView12"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="270dp"
+        android:background="#FFFFFF00"
+        />
+
+
+
+    <TextView
+        android:id="@+id/MA_TextView13"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="30dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView14"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="110dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView15"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="190dp"
+        android:background="#FFFFFF00"
+        />
+    <TextView
+        android:id="@+id/MA_TextView16"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="270dp"
+        android:background="#FFFF0000"
+        />
+
+</RelativeLayout>

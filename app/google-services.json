@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "688306175611",
+    "firebase_url": "https://cap-stone.firebaseio.com",
+    "project_id": "cap-stone",
+    "storage_bucket": "cap-stone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688306175611:android:68aca912be02e825",
+        "android_client_info": {
+          "package_name": "com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688306175611-652voe5jjakj9uf1a13bvubbtopab434.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Db9tdCuucdhe42VGKpGsueHeqY1b4q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688306175611:android:b370a47ea2aa2110",
+        "android_client_info": {
+          "package_name": "com.capstondesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688306175611-652voe5jjakj9uf1a13bvubbtopab434.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Db9tdCuucdhe42VGKpGsueHeqY1b4q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688306175611:android:f58528e72636d69d",
+        "android_client_info": {
+          "package_name": "com.example.mnb.happyshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688306175611-652voe5jjakj9uf1a13bvubbtopab434.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Db9tdCuucdhe42VGKpGsueHeqY1b4q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
